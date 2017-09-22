@@ -19,3 +19,5 @@ addin more
 
 ##LAST
 last modifiers to the file readme
+
+2018 Git.Training.
